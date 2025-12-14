@@ -1,18 +1,14 @@
 ## Hi there 👋
 
-I’m **Sony Mbarga**, a graduate student in **Economics** at Université de Sherbrooke, interested in  
-**data analysis, public policy, and how data can support better decisions**.
+I’m **Sony**, a graduate student in **Economics** at Université de Sherbrooke and **Data Practitioners**, interested and obsessed in  
+**data analysis, data engineering, and how data can support better decisions**.
 
 ---
 ### 📚 Learning
 - Data analytics workflows (from raw data → clean dataset → insight)
-- Stronger skills in **Python**, **SQL** and **Power BI**
+- Data Enginering workflows (from raw data → Genration → Transformation → Storage → Serving
+- Stronger skills in **PYTHON**, **SQL**, **POWER BI**, **EXCEL**, **TABLEAU**
 
-### 🛠️ Tools I use
-- **Python** (pandas, NumPy, scikit-learn, Matplotlib)  
-- **Power BI** for dashboards and data visualization  
-- **Excel** and **SQL (MySQL)** for data cleaning and analysis  
-
-### How to reach me
+###     How to reach me
 - Email: **mbargasony@gmail.com**  
 - LinkedIn: *coming soon / ask me by email*
