@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**SonyTheAnalyst/SonyTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Sony Mbarga**, a graduate student in **Economics** at Université de Sherbrooke, interested in  
+**data analysis, public policy, and how data can support better decisions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m working on
+- Academic projects in **applied economics** and **data analysis**
+- Small data projects to explore **public policy, finance and environment**
+
+### 📚 Currently learning
+- Data analytics workflows (from raw data → clean dataset → insight)
+- Stronger skills in **Python**, **SQL** and **Power BI**
+
+### 🛠️ Tools I use
+- **Python** (pandas, NumPy, scikit-learn, Matplotlib)  
+- **Power BI** for dashboards and data visualization  
+- **Excel** and **SQL (MySQL)** for data cleaning and analysis  
+
+### 📫 How to reach me
+- Email: **mbargasony@gmail.com**  
+- LinkedIn: *coming soon / ask me by email*
