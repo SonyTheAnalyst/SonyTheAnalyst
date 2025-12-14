@@ -4,12 +4,7 @@ I’m **Sony Mbarga**, a graduate student in **Economics** at Université de She
 **data analysis, public policy, and how data can support better decisions**.
 
 ---
-
-### 🔍 What I’m working on
-- Academic projects in **applied economics** and **data analysis**
-- Small data projects to explore **public policy, finance and environment**
-
-### 📚 Currently learning
+### 📚 Learning
 - Data analytics workflows (from raw data → clean dataset → insight)
 - Stronger skills in **Python**, **SQL** and **Power BI**
 
@@ -18,6 +13,6 @@ I’m **Sony Mbarga**, a graduate student in **Economics** at Université de She
 - **Power BI** for dashboards and data visualization  
 - **Excel** and **SQL (MySQL)** for data cleaning and analysis  
 
-### 📫 How to reach me
+### How to reach me
 - Email: **mbargasony@gmail.com**  
 - LinkedIn: *coming soon / ask me by email*
