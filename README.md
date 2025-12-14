@@ -11,4 +11,4 @@ I’m **Sony**, a graduate student in **Economics** at Université de Sherbrooke
 
 ###     How to reach me
 - Email: **mbargasony@gmail.com**  
-- LinkedIn: *(https://www.linkedin.com/in/sony-mbarga-091b2a380/?trk=opento_sprofile_details)*
+- LinkedIn: **https://www.linkedin.com/in/sony-mbarga-091b2a380/?trk=opento_sprofile_details**
