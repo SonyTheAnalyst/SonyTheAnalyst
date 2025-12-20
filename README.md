@@ -7,7 +7,7 @@ I’m **Sony**, a graduate student in **Economics** at Université de Sherbrooke
 ### 📚 Learning
 - Data analytics workflows (from raw data → clean dataset → insight)
 - Data Enginering workflows (from raw data → Generation → Transformation → Storage → Serving)
-- Stronger skills in **PYTHON**, **SQL**, **POWER BI**, **EXCEL**, **TABLEAU**
+- Stronger skills in **PYTHON**, **SQL**, **POWER BI**, **EXCEL**, **TABLEAU**, **PYSPARK**
 
 ###     How to reach me
 - Email: **mbargasony@gmail.com**  
